@@ -15,10 +15,5 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Scripting"
-run/main_scene="res://Scenes/World.tscn"
+config/name="Space Shooter"
 config/icon="res://icon.png"
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
